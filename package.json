@@ -1,0 +1,20 @@
+{
+  "name": "customer-cli",
+  "version": "1.0.0",
+  "description": "Customer Managment CLI",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./commands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^3.0.2",
+    "dotenv": "^8.1.0",
+    "inquirer": "^7.0.0",
+    "mongoose": "^5.7.1"
+  }
+}
