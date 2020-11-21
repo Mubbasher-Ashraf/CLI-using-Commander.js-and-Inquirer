@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^3.0.2",
-    "dotenv": "^8.1.0",
+    "dotenv": "^8.2.0",
     "inquirer": "^7.0.0",
     "mongoose": "^5.7.1"
   }
